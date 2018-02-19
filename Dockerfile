@@ -1,4 +1,4 @@
-FROM centos:centos6
+FROM centos1:centos6
 
 MAINTAINER nigelpoulton@hotmail.com
 
